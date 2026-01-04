@@ -1,2 +1,1 @@
-# Projetos_2026
-Meus desenvolvimentos
+Projetos aleatórios com prática em HTML, CSS & JavaScript
